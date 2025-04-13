@@ -26,7 +26,7 @@ To build a robust, accurate, and explainable house price prediction model using 
 
 | Metric     | Value         |
 |------------|---------------|
-| RMSE       | 33,398.05     |
-| MAE        | 17,579.79     |
-| R² Score   | 0.8546        |
+| RMSE       | 28,628.13     |
+| MAE        | 17,273.65     |
+| R² Score   | 0.8932        |
 
